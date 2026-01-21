@@ -1,12 +1,12 @@
 Grading Contract
 ================
-January 12 2023
+January 21 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
 # Contract Grades – “A” Contract
 
-I, Tukey Cat, agree to :
+I, Anaelle Gackiere, agree to :
 
 1)  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.

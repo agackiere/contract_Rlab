@@ -3,9 +3,9 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
-  thesisdeadline: "2023-01-10"
-  springbreak: "2023-01-10"
+  weekonemonday: "2026-01-09"
+  thesisdeadline: "2026-01-10"
+  springbreak: "2026-03-09"
   name: Anaelle Gackiere
   labs: 11
   portfolios: 10
@@ -161,26 +161,26 @@ I, `r params$name`, agree to :
 
 Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
 
-- [ ] `r advdate(dayone, 1, topic)`
+- [x] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by `r startweek`:  `r advdate(dayone, 1, assignment=startweek)`
-- [ ] `r advdate(dayone, 2, topic)`
+- [x] `r advdate(dayone, 2, topic)`
   - Finish Lab 2 by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
   - Propose your contract to Mason by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
-- [ ]  `r advdate(dayone, 3, topic)`
+- [x]  `r advdate(dayone, 3, topic)`
   - Finish Lab 3  by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
   - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
-- [ ] `r advdate(dayone, 4, topic)`
+- [x] `r advdate(dayone, 4, topic)`
   - Finish Lab 4  by `r startweek`:  `r advdate(dayone, 4, assignment=startweek)`
-- [ ] `r advdate(dayone, 5, topic)`
+- [x] `r advdate(dayone, 5, topic)`
   - Finish Lab 5  by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
   - Finish portfolio piece 2 by `r startweek`:  `r advdate(dayone, 5, assignment=startweek)`
-- [ ] `r advdate(dayone, 6, topic)`
+- [x] `r advdate(dayone, 6, topic)`
   - Finish Lab 6 by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
   - Schedule a check-in with Mason by `r startweek`:  `r advdate(dayone, 6, assignment=startweek)`
-- [ ] `r advdate(dayone, 7, topic)`
+- [x] `r advdate(dayone, 7, topic)`
   - Finish Lab 7 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
   - Finish portfolio piece 3 by `r startweek`:  `r advdate(dayone, 7, assignment=startweek)`
-- [ ] `r advdate(dayone, 8, topic)`
+- [x] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r startweek`:  `r advdate(dayone, 8, assignment=startweek)`
 - [ ] `r advdate(dayone, 9, topic)`
   - Finish Lab 9 by `r startweek`:  `r advdate(dayone, 9, assignment=startweek)`

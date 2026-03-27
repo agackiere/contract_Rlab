@@ -1,6 +1,6 @@
 Grading Contract
 ================
-March 10 2026
+March 27 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -68,21 +68,21 @@ rearrange these labs and events to fit your needs.
 
   - Finish Lab 8 by Friday: 03/03
 
-- [ ] Module 09, 03/06 - 03/10 : Data and Ethics
+- [x] Module 09, 03/06 - 03/10 : Data and Ethics
 
   - Finish Lab 9 by Friday: 03/10
   - Finish portfolio piece 4 by Friday: 03/10
 
-- [ ] Module 10, 03/13 - 03/17 : Fitting and interpreting models
+- [x] Module 10, 03/13 - 03/17 : Fitting and interpreting models
 
   - Finish Lab 10 by Friday: 03/17
 
-- [ ] Module 11, 03/20 - 03/24 : Prediction and overfitting
+- \[\] Module 11, 03/20 - 03/24 : Prediction and overfitting
 
   - Finish Lab 11 by Friday: 03/24
   - Finish portfolio piece 5 by Friday: 03/24
 
-- [ ] Module 12, 03/27 - 03/31 : Cross validation
+- [x] Module 12, 03/27 - 03/31 : Cross validation
 
   - Finish portfolio piece 6 by Friday: 03/31
 
